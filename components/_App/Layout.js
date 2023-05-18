@@ -16,7 +16,7 @@ function Layout({ children, user }) {
           rel="stylesheet"
           href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css"
         />
-        <title>ReactReserve</title>
+        <title>Mernstack-rg0523</title>
       </Head>
       <Header user={user}/>
       <Container text style={{ paddingTop: "1em" }}>

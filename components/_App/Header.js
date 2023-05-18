@@ -28,7 +28,7 @@ function Header({user}) {
               src="/static/logo.svg"
               style={{ marginRight: "1em" }}
             />
-            ReactReserve
+            Mernstack-rg0523
           </Menu.Item>
         </Link>
 
