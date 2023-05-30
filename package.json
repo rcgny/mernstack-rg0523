@@ -12,23 +12,23 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^1.4.0",
     "bcrypt": "^5.1.0",
     "js-cookie": "^2.2.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoimport": "^1.0.6",
     "mongoose": "^5.6.7",
-    "next": "^9.0.2",
+    "next": "^13.4.3",
     "nookies": "^2.0.8",
     "nprogress": "^0.2.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-stripe-checkout": "^2.6.3",
     "semantic-ui-react": "^0.87.3",
     "shortid": "^2.2.14",
     "stripe": "^7.5.0",
     "uuid": "^3.3.2",
-    "validator": "^11.1.0"
+    "validator": "^13.9.0"
   },
   "devDependencies": {
     "@types/mongoose": "^5.11.97"
